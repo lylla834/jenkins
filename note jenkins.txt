@@ -1,0 +1,14 @@
+jenkins 
+ 
+ 8 7cd5b48094eb42f1a46a3dbf33156f3c
+ 
+ ssh lylla@51.103.71.67
+  le chemin  sur jenkins /opt/apache-maven-3.6.3
+  
+  installation jenkins
+  abord installer Java puis jenkins grace à jenkins.io
+  https://www.jenkins.io/doc/book/installing/
+  
+  installation extension maven
+  
+  https://www.digitalocean.com/community/tutorials/install-maven-linux-ubuntu

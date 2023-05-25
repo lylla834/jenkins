@@ -1,0 +1,7 @@
+
+
+# compilation
+javac Main.java
+
+# lancement run
+java Main
